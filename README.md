@@ -38,7 +38,7 @@
 ## 📸 نمای محیط برنامه
 
 <div align="center">
-  <img src="screenshot.png" alt="K3 Manga Auto Translator Mobile Screenshot" width="100%" style="border-radius: 10px; border: 2px solid #333;">
+  <img src="screenshot.png" alt="K3 Manga Auto Translator Mobile Screenshot" width="40%" style="border-radius: 10px; border: 2px solid #333;">
 </div>
 
 <br>
